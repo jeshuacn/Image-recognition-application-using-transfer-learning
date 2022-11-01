@@ -6,7 +6,7 @@ and depending on the outcome it will turn on a red or blue LED, using an Arduino
 
 This project was made using Teachable Machine to train the model. We used a dataset of 200 photos for each category.
 
-Here we have two [labels](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/files/labels.txt):
+Here we have two [labels](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/labels.txt):
 
   0 - mask
   1 - without mask
