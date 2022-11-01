@@ -14,7 +14,7 @@ Here we have two [labels](https://github.com/jeshuacn/Image-recognition-applicat
 ## Arduino
 
 
-Here is the Arduino script used to turn the LEDs ON and OFF
+Here is the Arduino [script](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/encender_leds.ino) used to turn the LEDs ON and OFF
 
 Here's the circuite we used with the arduino:
 
