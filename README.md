@@ -1,4 +1,4 @@
-# Image-recognition-application-using-transfer-learning
+# Image Recognition Application Using Transfer-learning
 This is a project of image recognition using transfer learning using [Teachable Machine](https://teachablemachine.withgoogle.com/) from Google, to detect if a person is wearing a mask or not
 and depending on the outcome it will turn on a red or blue LED, using an Arduino and Python.
 
@@ -11,6 +11,10 @@ Here we have two [labels](https://github.com/jeshuacn/Image-recognition-applicat
   0 - mask
   
   1 - without mask
+  
+If the model detects that the person is not wearing a mask it will play an audio warning instructing the person to put on the mask.
+
+This audio is in Spanish. [MP3](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/Colocar_mascarilla.mp3)
  
 ## Arduino
 
@@ -21,3 +25,4 @@ Here's the circuite we used with the arduino:
 
 ![image](https://user-images.githubusercontent.com/33787097/199165010-8f0e3150-4d1c-486e-ad9b-4c347e5c90fb.png)
 https://thecustomizewindows.com/2018/07/arduino-blink-two-leds-alternatively/
+
