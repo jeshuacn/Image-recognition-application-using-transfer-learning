@@ -24,5 +24,5 @@ Here is the Arduino [script](https://github.com/jeshuacn/Image-recognition-appli
 Here's the circuite we used with the arduino:
 
 ![image](https://user-images.githubusercontent.com/33787097/199165010-8f0e3150-4d1c-486e-ad9b-4c347e5c90fb.png)
-https://thecustomizewindows.com/2018/07/arduino-blink-two-leds-alternatively/
+Image from: https://thecustomizewindows.com/2018/07/arduino-blink-two-leds-alternatively/
 
