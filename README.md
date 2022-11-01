@@ -9,6 +9,7 @@ This project was made using Teachable Machine to train the model. We used a data
 Here we have two [labels](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/labels.txt):
 
   0 - mask
+  
   1 - without mask
  
 ## Arduino
