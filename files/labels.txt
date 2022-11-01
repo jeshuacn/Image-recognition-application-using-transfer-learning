@@ -1,0 +1,2 @@
+0 Mascarrilla
+1 No_mascarilla
