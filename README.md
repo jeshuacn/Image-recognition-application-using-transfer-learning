@@ -26,3 +26,8 @@ Here's the circuite we used with the arduino:
 ![image](https://user-images.githubusercontent.com/33787097/199165010-8f0e3150-4d1c-486e-ad9b-4c347e5c90fb.png)
 Image from: https://thecustomizewindows.com/2018/07/arduino-blink-two-leds-alternatively/
 
+## Python script
+
+Here is the Python program for this application of image detection using OpenCV to capture images from the webcam in real-time.
+
+[Python Script](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/Teachable_machine_project.py)
