@@ -15,7 +15,13 @@ Here we have two [labels](https://github.com/jeshuacn/Image-recognition-applicat
 If the model detects that the person is not wearing a mask it will play an audio warning instructing the person to put on the mask.
 
 This audio is in Spanish. [MP3](https://github.com/jeshuacn/Image-recognition-application-using-transfer-learning/blob/main/files/Colocar_mascarilla.mp3)
+
+### What is Teachable Machine?
+
+It is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. It also uses a pretrained MobileNet model, a 28 Layer CNN model to classify images.
  
+Here's an article from Towards Data Science, if you want to dig a bit deeper: [Have you taught your machine yet?](https://towardsdatascience.com/have-you-taught-your-machine-yet-45540b7e646b)
+
 ## Arduino
 
 
